@@ -5,9 +5,7 @@
   padding: 0px;
   box-sizing: border-box;
 }
-.phone{
-  color: white!;
-}
+
 
 .fullscreen {
   width: 100%;
@@ -60,7 +58,9 @@
   font-weight: 300;
   padding-right: 20px;
 }
-
+.telefon-renk{
+  color: white;
+}
 .adres {
   text-align: center;
 }
