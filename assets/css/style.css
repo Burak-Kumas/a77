@@ -5,12 +5,10 @@
   padding: 0px;
   box-sizing: border-box;
 }
-p:link{
-  color: white;
+.phone{
+  color: white!;
 }
-p:visited{
-  color: white;
-}
+
 .fullscreen {
   width: 100%;
   height: 100vh;
