@@ -5,7 +5,7 @@
   padding: 0px;
   box-sizing: border-box;
 }
-p{
+p:link{
   color: white;
 }
 .fullscreen {
